@@ -46,10 +46,10 @@ article1 = Article("개발", "개발은 쉬워요")
 article2 = Article("코칭", "코칭은 쉬워요")
 article3 = Article("창업", "창업은 쉬워요")
 
-# print(article1.view_count)
-# article1.read()
-# # article1.view_count1 = artivle1.view_count1 + 1
-# print(article1.view_count)
+print(article1.view_count)
+article1.read()
+# article1.view_count1 = artivle1.view_count1 + 1
+print(article1.view_count)
 
 
 ##### Article class inheritance 상속
